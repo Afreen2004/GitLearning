@@ -1,0 +1,1 @@
+This is the 2nd file . This is created to know how to push a fresh/new file created locally into the repo (github).
